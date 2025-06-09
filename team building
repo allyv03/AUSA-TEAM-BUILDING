@@ -1,0 +1,6 @@
+git init 
+git remote add origin
+https://github.com/allyv03.github.io/AUSA-TEAM-BUILDING.git
+hit add .
+git commit -m "AUSA TEAM BUILDING.html"
+git push -u origin main 
